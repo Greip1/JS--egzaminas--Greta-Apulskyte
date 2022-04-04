@@ -3,8 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
 /* Mobile first */
@@ -56,6 +55,35 @@
   width: 80%;
   margin-top: 25px;
   padding: 30px;
+  padding-left: 50px;
   border-radius: 5px;
   background-color: #fff;
+}
+/* ====================================my css===== */
+#output {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 40px;
+}
+
+.card {
+  background-color: rgb(211, 221, 252);
+  border: solid 1px rgb(38, 31, 32);
+  border-radius: 4px;
+  box-shadow: rgb(98, 41, 126) 2px 3px;
+  text-align: center;
+  width: 90%;
+}
+.login {
+  border-bottom: rgb(184, 50, 184) dotted 1px;
+  border-radius: 15px;
+  color: rgb(36, 35, 35);
+  margin: 5px auto;
+  padding: 3px;
+  width: 50%;
+}
+.img {
+  border-radius: 15px;
+  padding: 10px;
+  width: 100%;
 }
