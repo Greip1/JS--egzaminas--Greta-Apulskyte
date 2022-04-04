@@ -24,5 +24,5 @@ function Calculator() {
 }
 
 // const calc = new Calculator();
-// const ats = calc.division(2, 4);
+// const ats = calc.division(4, 2);
 // console.log("ats ===",ats);

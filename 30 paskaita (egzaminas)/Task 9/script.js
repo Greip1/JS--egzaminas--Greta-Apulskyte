@@ -19,7 +19,5 @@ class Movie {
 }
 
 // const movie = new Movie("Inglourious basterds", "Quentin Tarantino", 700000000);
-// console.log(movie);
-
 // const isExp = movie.wasExpensive();
 // console.log("is expensive ===", isExp);
