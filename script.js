@@ -16,6 +16,8 @@ submEl.addEventListener("click", convertWeight);
 function convertWeight(ev) {
   ev.preventDefault();
   const inputKg = inputEl.value;
+  divEl.style.padding = "10px 20px";
+  divEl.style.textAlign = "center";
 
   const svarais = inputKg * 2.2046;
   const gramais = inputKg / 0.001;
