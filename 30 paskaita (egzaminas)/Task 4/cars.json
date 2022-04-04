@@ -137,7 +137,7 @@
       "Jumper",
       "Jumpy",
       "Saxo",
-      "Nemo",
+      " Nemo",
       "Xantia",
       "Xsara"
     ]
@@ -157,7 +157,7 @@
       "Cascada",
       "Corsa",
       "Frontera",
-      "Insignia",
+      " Insignia",
       "Insignia kombi",
       "Kadett",
       "Meriva",
@@ -166,7 +166,7 @@
       "Omega",
       "Signum",
       "Vectra",
-      "Vectra Caravan",
+      " Vectra Caravan",
       "Vivaro",
       "Vivaro Kombi",
       "Zafira"
@@ -190,7 +190,7 @@
       "GTV",
       "MiTo",
       "Crosswagon",
-      "Spider",
+      " Spider",
       "GT",
       "Giulietta",
       "Giulia"
@@ -255,7 +255,7 @@
       "911 Turbo",
       "924",
       "944",
-      "997",
+      " 997",
       "Boxster",
       "Cayenne",
       "Cayman",
@@ -418,7 +418,7 @@
       "Paseo",
       "Picnic",
       "Prius",
-      "RAV4",
+      "RAV 4",
       "Sequoia",
       "Starlet",
       "Supra",
@@ -807,7 +807,13 @@
       "Windstar"
     ]
   },
-  { "brand": "Hummer", "models": ["H2", "H3"] },
+  {
+    "brand": "Hummer",
+    "models": [
+      "H2",
+      "H3"
+    ]
+  },
   {
     "brand": "Hyundai",
     "models": [
@@ -846,7 +852,15 @@
   },
   {
     "brand": "Infiniti",
-    "models": ["EX", "FX", "G", "G Coupé", "M", "Q", "QX"]
+    "models": [
+      "EX",
+      "FX",
+      "G",
+      "G Coupé",
+      "M",
+      "Q",
+      "QX"
+    ]
   },
   {
     "brand": "Jaguar",
@@ -909,7 +923,7 @@
       "Navara",
       "Note",
       "NP300 Pickup",
-      "NV200",
+      "NV 200",
       "NV400",
       "Pathfinder",
       "Patrol",
@@ -922,7 +936,7 @@
       "Primera Combi",
       "Pulsar",
       "Qashqai",
-      "Serena",
+      " Serena",
       "Sunny",
       "Terrano",
       "Tiida",
@@ -954,9 +968,9 @@
       "V60",
       "V70",
       "V90",
-      "XC60",
-      "XC70",
-      "XC90"
+      "XC 60",
+      "XC 70",
+      "XC 90"
     ]
   },
   {
@@ -966,7 +980,7 @@
       "Kalos",
       "Lacetti",
       "Lanos",
-      "Leganza",
+      " Leganza",
       "Lublin",
       "Matiz",
       "Nexia",
@@ -987,7 +1001,7 @@
       "500X",
       "850",
       "Barchetta",
-      "Brava",
+      " Brava",
       "Cinquecento",
       "Coupé",
       "Croma",
@@ -1048,7 +1062,17 @@
   },
   {
     "brand": "Rover",
-    "models": ["200", "214", "218", "25", "400", "414", "416", "620", "75"]
+    "models": [
+      "200",
+      "214",
+      "218",
+      "25",
+      "400",
+      "414",
+      "416",
+      "620",
+      "75"
+    ]
   },
   {
     "brand": "Smart",
