@@ -28,3 +28,11 @@ function getUserAverageAge(arr) {
 }
 // const ats = getUserAverageAge(users);
 // console.log("ats ===", ats);
+
+//2.=============================================================
+function getUsersNames(arr) {
+  const varduArr = arr.map((ob) => ob.name);
+  return varduArr;
+}
+// const ats2 = getUsersNames(users);
+// console.log("ats2 ===", ats2);
